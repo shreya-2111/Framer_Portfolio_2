@@ -107,3 +107,6 @@ Or set build command: `npm run build`, publish dir: `dist`
 | GSAP + ScrollTrigger | Animations |
 | Three.js + R3F | 3D effects |
 | Lucide React | Icons |
+
+## 🌐 Live Demo
+🔗 [Visit Website](https://framer-portfolio-2.vercel.app/)
